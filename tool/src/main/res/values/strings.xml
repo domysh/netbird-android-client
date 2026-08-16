@@ -14,4 +14,13 @@
     <string name="fg_notification_no_network">No network available</string>
     <string name="fg_notification_needs_login">Login required</string>
     <string name="fg_notification_error">Error</string>
+    <string name="file_drop_notification_channel_name">Incoming files</string>
+    <string name="file_drop_notification_offer_title">%1$s wants to send you a file</string>
+    <string name="file_drop_notification_accept">Accept</string>
+    <string name="file_drop_notification_decline">Decline</string>
+    <string name="file_drop_notification_sending_to">Sending to %1$s</string>
+    <string name="file_drop_notification_receiving_from">Receiving from %1$s</string>
+    <string name="file_drop_notification_sent">Sent to %1$s</string>
+    <string name="file_drop_notification_received">Received from %1$s</string>
+    <string name="file_drop_notification_failed">Transfer with %1$s failed</string>
 </resources>
